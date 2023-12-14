@@ -24,4 +24,3 @@ Data  -> X -> scale -> knn -> prep   -->pipeline=model=scale+knn
 ![Images1](./images/170001.png)
 
 
-![Docker CheatSheet](./Docker_cheat_sheet.png)
