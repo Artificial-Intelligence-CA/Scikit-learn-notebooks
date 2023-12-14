@@ -13,6 +13,8 @@ https://www.youtube.com/watch?v=0B5eIE_1vpU  (2:09:22)
 - Part 5: Human-Learn
 ---
 
+## Part 1: Scikit-Learn
+
 Data -> Model -> Prediction
 
 ![Images0](./images/171533.png)
@@ -24,3 +26,7 @@ Data  -> X -> scale -> knn -> prep   -->pipeline=model=scale+knn
 
 
 ![Images2](./images/172116.png)
+
+## Part 2: Preprocessing
+
+
