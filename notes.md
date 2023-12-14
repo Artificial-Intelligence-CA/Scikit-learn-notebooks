@@ -23,3 +23,4 @@ Data  -> X -> scale -> knn -> prep   -->pipeline=model=scale+knn
 ![Images1](./images/171220.png)
 
 
+![Images2](./images/172116.png)
