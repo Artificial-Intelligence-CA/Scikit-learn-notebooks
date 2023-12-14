@@ -8,6 +8,8 @@ Data -> Model -> Prediction
   
   y    2.learn<-.fit(X,y)
 
+Data  -> X -> scale -> knn -> prep   --model=scale+knn
+
 ---
 - Part 1: Scikit-Learn
   - Folder scikit-learn
