@@ -10,7 +10,7 @@ Data -> Model -> Prediction
 
 Data  -> X -> scale -> knn -> prep   -->pipeline=model=scale+knn
 
-![Images1](./images/Screenshot 2023-12-14 170001.png)
+![Images1](./Scikit-learn-notebooks/images/Screenshot 2023-12-14 170001.png)
 
 ---
 - Part 1: Scikit-Learn
