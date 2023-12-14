@@ -10,6 +10,8 @@ Data -> Model -> Prediction
 
 Data  -> X -> scale -> knn -> prep   -->pipeline=model=scale+knn
 
+![Images1](./images/Screenshot 2023-12-14 170001.png)
+
 ---
 - Part 1: Scikit-Learn
   - Folder scikit-learn
@@ -20,3 +22,4 @@ Data  -> X -> scale -> knn -> prep   -->pipeline=model=scale+knn
 - Part 4: Meta Estimators
 - Part 5: Human-Learn
 
+![Docker CheatSheet](./Docker_cheat_sheet.png)
