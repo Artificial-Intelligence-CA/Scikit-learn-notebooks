@@ -29,4 +29,4 @@ Data  -> X -> scale -> knn -> prep   -->pipeline=model=scale+knn
 
 ## Part 2: Preprocessing
 
-
+![Images3](./images/172440.png)
