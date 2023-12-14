@@ -2,6 +2,17 @@
 
 https://www.youtube.com/watch?v=0B5eIE_1vpU  (2:09:22)
 
+---
+- Part 1: Scikit-Learn
+  - Folder scikit-learn
+- Part 2: Preprocessing
+  - Folder scikit-prep
+- Part 3: Metrics
+  - Folder scikit-metrics
+- Part 4: Meta Estimators
+- Part 5: Human-Learn
+---
+
 Data -> Model -> Prediction
 
   X    1.create<-object
@@ -12,14 +23,5 @@ Data  -> X -> scale -> knn -> prep   -->pipeline=model=scale+knn
 
 ![Images1](./images/170001.png)
 
----
-- Part 1: Scikit-Learn
-  - Folder scikit-learn
-- Part 2: Preprocessing
-  - Folder scikit-prep
-- Part 3: Metrics
-  - Folder scikit-metrics
-- Part 4: Meta Estimators
-- Part 5: Human-Learn
 
 ![Docker CheatSheet](./Docker_cheat_sheet.png)
