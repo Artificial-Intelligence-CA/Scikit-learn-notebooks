@@ -4,9 +4,9 @@ https://www.youtube.com/watch?v=0B5eIE_1vpU  (2:09:22)
 
 Data -> Model -> Prediction
 
-  'X    1.create<-object'
+  X    1.create<-object
   
-  'y    2.learn<-.fit(X,y)'
+  y    2.learn<-.fit(X,y)
 
 ---
 - Part 1: Scikit-Learn
